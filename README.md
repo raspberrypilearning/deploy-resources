@@ -4,4 +4,4 @@ List of live resources to be deployed to [raspberrypi.org](http://www.raspberryp
 
 ## Contributing
 
-Instructions for adding a new repository to the list to be deployed, see [contributing.md](contributing.md)
+  Instructions for adding a new repository to the list to be deployed, see [CONTRIBUTING.md](CONTRIBUTING.md)
