@@ -35,4 +35,6 @@ robobutler
 tweeting-babbage
 spinning-wheel-flower
 GPIO-music-box
+sorting-hat-lesson
+snowflake-turtle
 
