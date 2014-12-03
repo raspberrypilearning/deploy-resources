@@ -33,7 +33,7 @@ fart-detector
 grandpa-scarer
 robobutler
 tweeting-babbage
-spinning-wheel-flower
+spinning-wheels-flowers
 gpio-music-box
 sorting-hat-lesson
 snowflake-turtle
