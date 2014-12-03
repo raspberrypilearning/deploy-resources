@@ -33,3 +33,6 @@ fart-detector
 grandpa-scarer
 robobutler
 tweeting-babbage
+spinning-wheel-flower
+GPIO-music-box
+
