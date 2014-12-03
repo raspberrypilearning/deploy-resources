@@ -37,3 +37,4 @@ spinning-wheels-flowers
 gpio-music-box
 sorting-hat-lesson
 snowflake-turtle
+santa-detector
