@@ -34,7 +34,6 @@ grandpa-scarer
 robobutler
 tweeting-babbage
 spinning-wheel-flower
-GPIO-music-box
+gpio-music-box
 sorting-hat-lesson
 snowflake-turtle
-
