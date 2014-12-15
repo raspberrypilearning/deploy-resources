@@ -41,3 +41,4 @@ santa-detector
 kids-ruby-quiz
 making-a-game-with-minecraft-pi
 infrared-bird-box
+babbage-lights-n-sounds
