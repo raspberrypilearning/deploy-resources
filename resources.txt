@@ -42,3 +42,4 @@ kids-ruby-quiz
 making-a-game-with-minecraft-pi
 infrared-bird-box
 babbage-lights-n-sounds
+balloon-pi-tay-popper
