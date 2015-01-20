@@ -28,7 +28,6 @@ sonic-pi-2-taster
 morse-code
 sonic-pi-competition-2014
 temperature-log
-teachers-classroom-guide
 fart-detector
 grandpa-scarer
 robobutler
