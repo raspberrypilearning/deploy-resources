@@ -4,9 +4,7 @@ turing-test-lessons
 quick-reaction-game
 cress-egg-heads
 python-for-vb-programmers
-getting-started-with-minecraft-pi
 python-picamera-setup
-sonic-pi-taster
 coder-html-css-lessons
 python-intro
 timelapse-setup
@@ -22,9 +20,10 @@ push-button-stop-motion
 getting-started-with-mathematica
 getting-started-with-scratch
 getting-started-with-raspberry-pi-lesson
+getting-started-with-minecraft-pi
+getting-started-with-sonic-pi
 hamster-party-cam
 networking-lessons
-sonic-pi-2-taster
 morse-code
 sonic-pi-competition-2014
 temperature-log
