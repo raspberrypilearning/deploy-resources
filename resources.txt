@@ -22,6 +22,7 @@ getting-started-with-scratch
 getting-started-with-raspberry-pi-lesson
 getting-started-with-minecraft-pi
 getting-started-with-sonic-pi
+getting-started-with-astro-pi
 hamster-party-cam
 networking-lessons
 morse-code
