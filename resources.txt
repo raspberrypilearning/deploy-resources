@@ -43,3 +43,4 @@ infrared-bird-box
 babbage-lights-n-sounds
 balloon-pi-tay-popper
 astro-pi-guide
+minecraft-photobooth
