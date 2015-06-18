@@ -10,7 +10,7 @@ python-intro
 timelapse-setup
 webcam-timelapse-setup
 sonic-pi-lessons
-screaming-jellybaby
+burping-jelly-baby
 piglow
 demo-programs
 reaction-game
