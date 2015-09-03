@@ -1,7 +1,7 @@
-web-server-wordpress
+lamp-web-server-with-wordpress
 storytime
 turing-test-lessons
-quick-reaction-game
+python-quick-reaction-game
 cress-egg-heads
 python-for-vb-programmers
 python-picamera-setup
@@ -11,9 +11,8 @@ timelapse-setup
 webcam-timelapse-setup
 sonic-pi-lessons
 burping-jelly-baby
-piglow
 demo-programs
-reaction-game
+sweet-shop-reaction-game
 parent-detector
 robot-antenna
 push-button-stop-motion
@@ -25,7 +24,7 @@ getting-started-with-sonic-pi
 getting-started-with-sense-hat
 hamster-party-cam
 networking-lessons
-morse-code
+morse-code-virtual-radio
 sonic-pi-competition-2014
 temperature-log
 fart-detector
