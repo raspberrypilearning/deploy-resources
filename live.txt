@@ -18,6 +18,7 @@ hamster-party-cam
 infrared-bird-box
 kids-ruby-quiz
 lamp-web-server-with-wordpress
+magic-8-ball
 minecraft-photobooth
 minecraft-whac-a-block-game
 morse-code-virtual-radio
