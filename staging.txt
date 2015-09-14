@@ -3,5 +3,5 @@ sense-hat-minecraft-map
 magic-8-ball
 sensing-the-weather
 astronaut-reaction-times
-Senseing-Space
+Sensing-Space
 
