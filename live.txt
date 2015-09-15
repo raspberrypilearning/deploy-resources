@@ -33,6 +33,7 @@ python-quick-reaction-game
 robo-butler
 robot-antenna
 santa-detector
+sense-hat-minecraft-map
 sonic-pi-competition-2014
 sonic-pi-lessons
 sorting-hat-lesson
