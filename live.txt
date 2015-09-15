@@ -30,6 +30,7 @@ python-for-vb-programmers
 python-intro
 python-picamera-setup
 python-quick-reaction-game
+python-web-server-with-flask
 robo-butler
 robot-antenna
 santa-detector
