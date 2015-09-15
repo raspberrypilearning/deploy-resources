@@ -1,7 +1,4 @@
 python-web-server-with-flask
-sense-hat-minecraft-map
-magic-8-ball
 sensing-the-weather
 astronaut-reaction-times
 sensing-space
-
