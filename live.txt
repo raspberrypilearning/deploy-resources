@@ -15,6 +15,7 @@ getting-started-with-the-sense-hat
 getting-started-with-sonic-pi
 gpio-music-box
 grandpa-scarer
+gravity-simulator
 hamster-party-cam
 infrared-bird-box
 kids-ruby-quiz
