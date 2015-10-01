@@ -3,4 +3,5 @@ astronaut-reaction-times
 sensing-space
 gravity-simulator
 sense-hat-pong
-Sense-HAT-Datalogger
+sense-hat-data-logger
+
