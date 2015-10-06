@@ -35,6 +35,7 @@ python-web-server-with-flask
 robo-butler
 robot-antenna
 santa-detector
+sense-hat-data-logger
 sense-hat-minecraft-map
 sonic-pi-competition-2014
 sonic-pi-lessons
