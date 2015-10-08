@@ -1,7 +1,4 @@
+pixel-pet
 sensing-the-weather
-astronaut-reaction-times
-sensing-space
-gravity-simulator
 sense-hat-pong
-sense-hat-data-logger
 sense-hat-puzzle-box
