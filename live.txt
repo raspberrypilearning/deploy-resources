@@ -27,6 +27,7 @@ minecraft-whac-a-block-game
 morse-code-virtual-radio
 networking-lessons
 parent-detector
+pixel-pet
 push-button-stop-motion
 python-for-vb-programmers
 python-intro
