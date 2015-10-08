@@ -1,3 +1,4 @@
+sense-hat-pong
 sensing-space
 astro-pi-guide
 astronaut-reaction-times
