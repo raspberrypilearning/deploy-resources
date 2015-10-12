@@ -1,3 +1,4 @@
+flappy-astronaut
 sense-hat-pong
 sensing-space
 astro-pi-guide
