@@ -1,4 +1,4 @@
-flappy-astronaut
+sense-hat-marble-maze
 pixel-pet
 sensing-the-weather
 sense-hat-puzzle-box
