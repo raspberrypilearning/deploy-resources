@@ -1,4 +1,4 @@
-sense-hat-marble-maze
+installing-raspbian-with-noobs
 pixel-pet
 sensing-the-weather
 sense-hat-puzzle-box
