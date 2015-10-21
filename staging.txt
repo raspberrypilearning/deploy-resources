@@ -1,4 +1,4 @@
-installing-raspbian-with-noobs
+noobs-install
 pixel-pet
 sensing-the-weather
 sense-hat-puzzle-box
