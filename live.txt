@@ -1,3 +1,4 @@
+noobs-install
 sense-hat-marble-maze
 flappy-astronaut
 sense-hat-pong
