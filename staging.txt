@@ -1,4 +1,4 @@
 noobs-install
-pixel-pet
+physical-computing-guide
 sensing-the-weather
 sense-hat-puzzle-box
