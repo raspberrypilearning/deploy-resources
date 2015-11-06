@@ -1,3 +1,4 @@
+getting-started-with-gpio-zero
 noobs-install
 physical-computing-guide
 sensing-the-weather
