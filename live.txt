@@ -25,6 +25,7 @@ grandpa-scarer
 gravity-simulator
 hamster-party-cam
 infrared-bird-box
+introduction-to-processing
 kids-ruby-quiz
 lamp-web-server-with-wordpress
 magic-8-ball
