@@ -4,3 +4,4 @@ noobs-install
 physical-computing-guide
 sensing-the-weather
 sense-hat-puzzle-box
+introduction-to-processing
