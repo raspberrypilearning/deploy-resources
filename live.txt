@@ -59,3 +59,4 @@ turing-test-lessons
 turtle-snowflakes
 tweeting-babbage
 webcam-timelapse-setup
+sense-hat-puzzle-box
