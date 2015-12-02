@@ -45,6 +45,7 @@ santa-detector
 sense-hat-data-logger
 sense-hat-marble-maze
 sense-hat-minecraft-map
+sense-hat-puzzle-box
 sense-hat-pong
 sensing-space
 sonic-pi-competition-2014
@@ -58,5 +59,6 @@ timelapse-setup
 turing-test-lessons
 turtle-snowflakes
 tweeting-babbage
+visualising-sorting-with-python
 webcam-timelapse-setup
-sense-hat-puzzle-box
+
