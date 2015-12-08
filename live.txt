@@ -1,4 +1,5 @@
 astro-pi-guide
+astro-pi-flight-data-analysis
 astronaut-reaction-times
 babbage-lights-n-sounds
 balloon-pi-tay-popper
