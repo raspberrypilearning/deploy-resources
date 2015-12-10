@@ -1,4 +1,3 @@
 physical-computing-guide
 sensing-the-weather
-introduction-to-processing
-weightlessness
+people-in-space-indicator
