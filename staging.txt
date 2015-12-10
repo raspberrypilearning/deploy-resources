@@ -1,3 +1,1 @@
-physical-computing-guide
 sensing-the-weather
-people-in-space-indicator
