@@ -28,6 +28,7 @@ magic-8-ball
 minecraft-photobooth
 minecraft-whac-a-block-game
 morse-code-virtual-radio
+n-days-of-christmas
 networking-lessons
 noobs-install
 parent-detector
