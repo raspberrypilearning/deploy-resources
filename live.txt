@@ -52,6 +52,7 @@ sense-hat-minecraft-map
 sense-hat-puzzle-box
 sense-hat-pong
 sense-hat-random-sparkles
+sensing-science
 sensing-space
 sonic-pi-competition-2014
 sonic-pi-lessons
