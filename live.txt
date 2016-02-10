@@ -25,7 +25,7 @@ infrared-bird-box
 introduction-to-processing
 kids-ruby-quiz
 lamp-web-server-with-wordpress
-laser-trip-wire
+laser-tripwire
 magic-8-ball
 minecraft-photobooth
 minecraft-whac-a-block-game
