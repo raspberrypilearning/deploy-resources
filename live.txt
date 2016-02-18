@@ -47,6 +47,7 @@ python-web-server-with-flask
 robo-butler
 robot-antenna
 santa-detector
+see-like-a-bat
 sense-hat-data-logger
 sense-hat-marble-maze
 sense-hat-minecraft-map
