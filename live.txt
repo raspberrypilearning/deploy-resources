@@ -8,6 +8,7 @@ burping-jelly-baby
 coder-html-css-lessons
 cress-egg-heads
 demo-programs
+dress-for-the-weather
 exploring-space-with-minecraft
 fart-detector
 flappy-astronaut
