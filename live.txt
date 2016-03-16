@@ -5,6 +5,7 @@ astronaut-reaction-times
 babbage-lights-n-sounds
 balloon-pi-tay-popper
 burping-jelly-baby
+camjam-kit-1
 coder-html-css-lessons
 cress-egg-heads
 demo-programs
