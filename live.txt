@@ -73,6 +73,6 @@ turing-test-lessons
 turtle-snowflakes
 tweeting-babbage
 visualising-sorting-with-python
+weather-station-guide
 webcam-timelapse-setup
 weightlessness
-
