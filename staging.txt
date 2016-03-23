@@ -2,4 +2,4 @@ turtley-amazing
 window-on-the-weather
 getting-started-with-microbits
 microbit-selfies
-weather-station-guide
+getting-started-with-picamera
