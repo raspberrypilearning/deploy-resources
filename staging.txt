@@ -3,3 +3,4 @@ microbit-game-controller
 getting-started-with-microbits
 microbit-selfies
 getting-started-with-picamera
+microbit-meteorologist
