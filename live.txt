@@ -16,6 +16,7 @@ flappy-astronaut
 getting-started-with-gpio-zero
 getting-started-with-mathematica
 getting-started-with-minecraft-pi
+getting-started-with-picamera
 getting-started-with-raspberry-pi-lesson
 getting-started-with-scratch
 getting-started-with-sonic-pi
