@@ -34,6 +34,7 @@ laser-tripwire
 magic-8-ball
 microbit-game-controller
 microbit-meteorologist
+microbit-selfies
 minecraft-photobooth
 minecraft-whac-a-block-game
 morse-code-virtual-radio
