@@ -15,6 +15,7 @@ fart-detector
 flappy-astronaut
 getting-started-with-gpio-zero
 getting-started-with-mathematica
+getting-started-with-microbits
 getting-started-with-minecraft-pi
 getting-started-with-picamera
 getting-started-with-raspberry-pi-lesson
@@ -31,6 +32,8 @@ kids-ruby-quiz
 lamp-web-server-with-wordpress
 laser-tripwire
 magic-8-ball
+microbit-game-controller
+microbit-meteorologist
 minecraft-photobooth
 minecraft-whac-a-block-game
 morse-code-virtual-radio
