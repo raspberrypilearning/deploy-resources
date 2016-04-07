@@ -44,6 +44,7 @@ noobs-install
 parent-detector
 people-in-space-indicator
 physical-computing-guide
+physical-computing-with-python
 physical-computing-with-scratch
 pixel-pet
 push-button-stop-motion
