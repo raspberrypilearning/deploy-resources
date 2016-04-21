@@ -15,7 +15,7 @@ fart-detector
 flappy-astronaut
 getting-started-with-gpio-zero
 getting-started-with-mathematica
-getting-started-with-microbits
+getting-started-with-microbit
 getting-started-with-minecraft-pi
 getting-started-with-picamera
 getting-started-with-raspberry-pi-lesson
