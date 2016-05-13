@@ -2,3 +2,5 @@ quick-start-guide
 help-software-guide
 help-hardware-guide
 help-extras-guide
+help-teacher-guide
+help-home-guide
