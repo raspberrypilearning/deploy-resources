@@ -6,3 +6,4 @@ help-teacher-guide
 help-home-guide
 getting-started-with-the-twitter-api
 tweeting-babbage
+scratch-olympics-weightlifter
