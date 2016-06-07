@@ -54,6 +54,7 @@ python-intro
 python-picamera-setup
 python-quick-reaction-game
 python-web-server-with-flask
+quick-start-guide
 robo-butler
 robot-antenna
 santa-detector
