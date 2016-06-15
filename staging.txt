@@ -4,6 +4,4 @@ help-hardware-guide
 help-extras-guide
 help-teacher-guide
 help-home-guide
-getting-started-with-the-twitter-api
-tweeting-babbage
-scratch-olympics-weightlifter
+help-faq-guide
