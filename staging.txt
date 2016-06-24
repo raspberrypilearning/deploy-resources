@@ -5,3 +5,4 @@ help-extras-guide
 help-teacher-guide
 help-home-guide
 help-faq-guide
+scratch-olympics-hurdler
