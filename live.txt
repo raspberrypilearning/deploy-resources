@@ -59,6 +59,7 @@ robo-butler
 robot-antenna
 santa-detector
 scratch-olympics-weightlifter
+scratch-olympics-hurdler
 secret-agent-chat
 see-like-a-bat
 sense-hat-data-logger
