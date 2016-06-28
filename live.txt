@@ -37,6 +37,7 @@ microbit-game-controller
 microbit-meteorologist
 microbit-selfies
 minecraft-photobooth
+minecraft-selfies
 minecraft-whac-a-block-game
 morse-code-virtual-radio
 n-days-of-christmas
