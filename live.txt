@@ -12,7 +12,6 @@ cress-egg-heads
 demo-programs
 dress-for-the-weather
 exploring-space-with-minecraft
-faq-guide
 fart-detector
 flappy-astronaut
 getting-started-with-gpio-zero
@@ -86,6 +85,7 @@ sweet-shop-reaction-game
 teachers-guide
 temperature-log
 timelapse-setup
+troubleshooting-guide
 turing-test-lessons
 turtle-snowflakes
 turtley-amazing
