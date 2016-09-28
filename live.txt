@@ -38,6 +38,7 @@ magic-8-ball
 microbit-game-controller
 microbit-meteorologist
 microbit-selfies
+micromine-bitcraft
 minecraft-photobooth
 minecraft-selfies
 minecraft-whac-a-block-game
