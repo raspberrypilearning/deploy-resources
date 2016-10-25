@@ -63,6 +63,7 @@ quick-start-guide
 robo-butler
 robot-antenna
 santa-detector
+scary-spot-the-difference
 scratch-olympics-hurdler
 scratch-olympics-weightlifter
 secret-agent-chat
