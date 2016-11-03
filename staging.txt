@@ -1,2 +1,3 @@
 getting-started-with-the-sense-hat
 micromine-bitcraft
+lights-out
