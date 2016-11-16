@@ -1,3 +1,4 @@
 getting-started-with-the-sense-hat
 whoopi-cushion
 lights-out
+fetching-the-weather
