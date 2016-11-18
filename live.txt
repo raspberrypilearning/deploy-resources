@@ -27,6 +27,7 @@ getting-started-with-the-sense-hat
 getting-started-with-the-twitter-api
 gpio-music-box
 grandpa-scarer
+graphing-the-weather
 gravity-simulator
 hamster-party-cam
 hardware-guide
