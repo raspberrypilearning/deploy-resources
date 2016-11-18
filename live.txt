@@ -13,6 +13,7 @@ demo-programs
 dress-for-the-weather
 exploring-space-with-minecraft
 fart-detector
+fetching-the-weather
 flappy-astronaut
 getting-started-with-gpio-zero
 getting-started-with-mathematica
