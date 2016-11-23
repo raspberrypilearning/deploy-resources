@@ -1,5 +1,4 @@
 getting-started-with-the-sense-hat
 whoopi-cushion
-fetching-the-weather
 cat-meme-generator
-scary-spot-the-difference
+mapping-the-weather
