@@ -2,4 +2,4 @@ getting-started-with-the-sense-hat
 whoopi-cushion
 cat-meme-generator
 mapping-the-weather
-scratching-the-weather
+weather-station-dashboard
