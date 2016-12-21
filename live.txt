@@ -103,3 +103,4 @@ window-on-the-weather
 lights-out
 cat-meme-generator
 astro-pi-flight-case
+using-scratch2
