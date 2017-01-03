@@ -37,6 +37,7 @@ kids-ruby-quiz
 lamp-web-server-with-wordpress
 laser-tripwire
 magic-8-ball
+mapping-the-weather
 microbit-game-controller
 microbit-meteorologist
 microbit-selfies
@@ -95,6 +96,7 @@ turtle-snowflakes
 turtley-amazing
 tweeting-babbage
 visualising-sorting-with-python
+weather-station-dashboard
 weather-station-guide
 webcam-timelapse-setup
 weightlessness
