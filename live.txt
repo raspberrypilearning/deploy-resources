@@ -84,6 +84,7 @@ software-guide
 sonic-pi-competition-2014
 sonic-pi-lessons
 sorting-hat-lesson
+space-maze
 spinning-flower-wheel
 storytime
 sweet-shop-reaction-game
