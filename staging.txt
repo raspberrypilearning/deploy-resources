@@ -5,3 +5,4 @@ weather-station-dashboard
 sensing-the-weather
 space-maze
 getting-started-with-wearables
+weather-station-guide
