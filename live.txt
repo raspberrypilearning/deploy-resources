@@ -98,7 +98,6 @@ turtley-amazing
 tweeting-babbage
 visualising-sorting-with-python
 weather-station-dashboard
-weather-station-guide
 webcam-timelapse-setup
 weightlessness
 whoopi-cushion
