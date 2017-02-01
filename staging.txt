@@ -7,3 +7,4 @@ space-maze
 getting-started-with-wearables
 weather-station-guide
 getting-started-with-node-red
+talk-like-a-pirate
