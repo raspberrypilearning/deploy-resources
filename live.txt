@@ -21,6 +21,7 @@ getting-started-with-gpio-zero
 getting-started-with-mathematica
 getting-started-with-microbit
 getting-started-with-minecraft-pi
+getting-started-with-node-red
 getting-started-with-picamera
 getting-started-with-raspberry-pi-lesson
 getting-started-with-scratch
