@@ -6,5 +6,4 @@ sensing-the-weather
 space-maze
 getting-started-with-wearables
 weather-station-guide
-getting-started-with-node-red
-talk-like-a-pirate
+raspberry-pi-zero-time-lapse-cam
