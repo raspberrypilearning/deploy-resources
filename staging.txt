@@ -9,3 +9,4 @@ weather-station-guide
 raspberry-pi-zero-time-lapse-cam
 the-big-minecraft-piano
 the-all-seeing-pi
+shakespearean-insult-generator
