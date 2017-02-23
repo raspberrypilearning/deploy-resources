@@ -7,3 +7,4 @@ space-maze
 getting-started-with-wearables
 weather-station-guide
 raspberry-pi-zero-time-lapse-cam
+the-big-minecraft-piano
