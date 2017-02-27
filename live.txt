@@ -36,6 +36,7 @@ hamster-party-cam
 hardware-guide
 infrared-bird-box
 introduction-to-processing
+jam-worksheets
 kids-ruby-quiz
 lamp-web-server-with-wordpress
 laser-tripwire
@@ -92,6 +93,7 @@ space-maze
 spinning-flower-wheel
 storytime
 sweet-shop-reaction-game
+talk-like-a-pirate
 teachers-guide
 temperature-log
 timelapse-setup
@@ -108,4 +110,3 @@ webcam-timelapse-setup
 weightlessness
 whoopi-cushion
 window-on-the-weather
-talk-like-a-pirate
