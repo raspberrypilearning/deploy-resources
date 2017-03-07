@@ -1,14 +1,7 @@
 jam-worksheets
 using-scratch2
-mapping-the-weather
-weather-station-dashboard
-sensing-the-weather
-space-maze
 getting-started-with-wearables
-weather-station-guide
 raspberry-pi-zero-time-lapse-cam
-the-big-minecraft-piano
 the-all-seeing-pi
-shakespearean-insult-generator
 networking-lessons
 the-all-seeing-pi
