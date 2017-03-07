@@ -97,6 +97,7 @@ sweet-shop-reaction-game
 talk-like-a-pirate
 teachers-guide
 temperature-log
+the-big-minecraft-piano
 timelapse-setup
 troubleshooting-guide
 turing-test-lessons
