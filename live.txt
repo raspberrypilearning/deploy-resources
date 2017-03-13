@@ -28,6 +28,7 @@ getting-started-with-scratch
 getting-started-with-sonic-pi
 getting-started-with-the-sense-hat
 getting-started-with-the-twitter-api
+getting-started-with-wearables
 gpio-music-box
 grandpa-scarer
 graphing-the-weather
@@ -68,6 +69,7 @@ python-picamera-setup
 python-quick-reaction-game
 python-web-server-with-flask
 quick-start-guide
+raspberry-pi-zero-time-lapse-cam
 robo-butler
 robot-antenna
 santa-detector
