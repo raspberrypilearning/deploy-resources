@@ -1,7 +1,4 @@
 jam-worksheets
-using-scratch2
-getting-started-with-wearables
-raspberry-pi-zero-time-lapse-cam
 the-all-seeing-pi
 networking-lessons
-the-all-seeing-pi
+explorer-hat-buggy
