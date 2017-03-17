@@ -2,3 +2,4 @@ jam-worksheets
 the-all-seeing-pi
 networking-lessons
 explorer-hat-buggy
+ultrasonic-theremin
