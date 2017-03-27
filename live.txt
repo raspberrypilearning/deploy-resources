@@ -59,6 +59,7 @@ noobs-install
 parent-detector
 parents-guide
 people-in-space-indicator
+poo-near-you
 physical-computing-guide
 physical-computing-with-python
 physical-computing-with-scratch
