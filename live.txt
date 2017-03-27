@@ -13,6 +13,7 @@ coder-html-css-lessons
 cress-egg-heads
 demo-programs
 dress-for-the-weather
+explorer-hat-buggy
 exploring-space-with-minecraft
 fart-detector
 fetching-the-weather
