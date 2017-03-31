@@ -4,3 +4,4 @@ networking-lessons
 explorer-hat-buggy
 ultrasonic-theremin
 getting-started-with-git
+getting-started-with-guis
