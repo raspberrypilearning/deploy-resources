@@ -112,6 +112,7 @@ turtley-amazing
 tweeting-babbage
 ultrasonic-theremin
 using-scratch2
+using-pip-on-windows
 visualising-sorting-with-python
 weather-station-dashboard
 weather-station-guide
