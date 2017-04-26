@@ -18,6 +18,7 @@ exploring-space-with-minecraft
 fart-detector
 fetching-the-weather
 flappy-astronaut
+getting-started-with-git
 getting-started-with-gpio-zero
 getting-started-with-guis
 getting-started-with-mathematica
