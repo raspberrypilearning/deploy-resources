@@ -3,3 +3,4 @@ networking-lessons
 ultrasonic-theremin
 getting-started-with-git
 using-pip-on-windows
+getting-started-with-soldering
