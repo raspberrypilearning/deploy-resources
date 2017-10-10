@@ -4,7 +4,6 @@ exploring-space-with-minecraft
 hardware-guide
 jam-worksheets
 minecraft-whac-a-block-game
-morse-code-virtual-radio
 networking-lessons
 parents-guide
 physical-computing-guide
