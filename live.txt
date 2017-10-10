@@ -1,6 +1,5 @@
 addons-guide
 astro-pi-guide
-babbage-lights-n-sounds
 camjam-kit-1
 coder-html-css-lessons
 exploring-space-with-minecraft
