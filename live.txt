@@ -16,7 +16,6 @@ software-guide
 sorting-hat-lesson
 teachers-guide
 troubleshooting-guide
-turing-test-lessons
 visualising-sorting-with-python
 weather-station-dashboard
 weather-station-guide
