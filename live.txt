@@ -6,7 +6,6 @@ jam-worksheets
 minecraft-whac-a-block-game
 networking-lessons
 parents-guide
-physical-computing-guide
 physical-computing-with-python
 python-for-vb-programmers
 python-intro
