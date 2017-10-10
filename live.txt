@@ -13,7 +13,6 @@ sensing-science
 sensing-space
 sensing-the-weather
 software-guide
-sonic-pi-lessons
 sorting-hat-lesson
 teachers-guide
 troubleshooting-guide
