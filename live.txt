@@ -1,6 +1,5 @@
 addons-guide
 astro-pi-guide
-coder-html-css-lessons
 exploring-space-with-minecraft
 getting-started-with-gpio-zero
 getting-started-with-raspberry-pi-lesson
