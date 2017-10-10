@@ -1,6 +1,5 @@
 addons-guide
 astro-pi-guide
-camjam-kit-1
 coder-html-css-lessons
 exploring-space-with-minecraft
 getting-started-with-gpio-zero
