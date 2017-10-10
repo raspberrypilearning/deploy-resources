@@ -19,4 +19,3 @@ troubleshooting-guide
 visualising-sorting-with-python
 weather-station-dashboard
 weather-station-guide
-webcam-timelapse-setup
