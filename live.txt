@@ -1,7 +1,6 @@
 addons-guide
 astro-pi-guide
 exploring-space-with-minecraft
-getting-started-with-gpio-zero
 getting-started-with-raspberry-pi-lesson
 getting-started-with-scratch
 hardware-guide
