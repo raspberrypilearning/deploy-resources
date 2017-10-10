@@ -7,7 +7,6 @@ minecraft-whac-a-block-game
 networking-lessons
 parents-guide
 physical-computing-with-python
-robo-butler
 sense-hat-minecraft-map
 sense-hat-puzzle-box
 sensing-science
