@@ -7,7 +7,6 @@ minecraft-whac-a-block-game
 networking-lessons
 parents-guide
 physical-computing-with-python
-python-for-vb-programmers
 python-intro
 python-picamera-setup
 quick-start-guide
