@@ -1,12 +1,12 @@
 addons-guide
 astro-pi-guide
+astro-pi-flight-data-analysis
 exploring-space-with-minecraft
 hardware-guide
 jam-worksheets
 minecraft-whac-a-block-game
 networking-lessons
 parents-guide
-sense-hat-data-logger
 sense-hat-minecraft-map
 sense-hat-puzzle-box
 sensing-science
