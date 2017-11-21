@@ -17,5 +17,4 @@ sorting-hat-lesson
 teachers-guide
 troubleshooting-guide
 visualising-sorting-with-python
-weather-station-dashboard
 weather-station-guide
