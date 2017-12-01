@@ -1,5 +1,4 @@
 addons-guide
-astro-pi-guide
 astro-pi-flight-data-analysis
 exploring-space-with-minecraft
 hardware-guide
